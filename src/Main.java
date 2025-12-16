@@ -1,5 +1,10 @@
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Mini proyecto Git iniciado");
+        saludar();
+    }
+
+    public static void saludar() {
+        System.out.println("Hola desde la utilidad Java");
     }
 }
